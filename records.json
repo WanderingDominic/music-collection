@@ -1,7 +1,147 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-07-03T09:02:43.740Z",
+  "updatedAt": "2026-07-03T09:43:48.478Z",
   "records": [
+    {
+      "id": "1783071478092-3ek4dr",
+      "title": "I Penny",
+      "artist": "戴佩妮",
+      "albumArtist": "",
+      "year": "",
+      "genre": "",
+      "label": "",
+      "catalogNumber": "",
+      "format": "CD",
+      "discs": "1",
+      "condition": "近新",
+      "language": "",
+      "country": "内地版",
+      "location": "",
+      "purchaseDate": "",
+      "purchasePrice": "",
+      "notes": "",
+      "coverUrl": "https://th.bing.com/th/id/OIP.yZrGnyVCFgydqavj6hElLwHaHa?o=7rm=3&rs=1&pid=ImgDetMain&o=7&rm=3"
+    },
+    {
+      "id": "1783071355736-6z2tkz",
+      "title": "WOW演唱会Live",
+      "artist": "萧亚轩",
+      "albumArtist": "",
+      "year": "2010",
+      "genre": "Pop",
+      "label": "金牌大风",
+      "catalogNumber": "",
+      "format": "DVD-Audio",
+      "discs": "2",
+      "condition": "良好",
+      "language": "中文",
+      "country": "内地版",
+      "location": "",
+      "purchaseDate": "",
+      "purchasePrice": "",
+      "notes": "",
+      "coverUrl": "https://y.gtimg.cn/music/photo_new/T062M000003boPTU0eSeAs.jpg?max_age=0"
+    },
+    {
+      "id": "1783071007566-rnpti0",
+      "title": "三面夏娃",
+      "artist": "萧亚轩",
+      "albumArtist": "",
+      "year": "2008",
+      "genre": "Pop",
+      "label": "维京唱片",
+      "catalogNumber": "",
+      "format": "CD",
+      "discs": "3",
+      "condition": "全新",
+      "language": "",
+      "country": "台版",
+      "location": "",
+      "purchaseDate": "",
+      "purchasePrice": "",
+      "notes": "",
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music5/v4/b3/3b/63/b33b63c1-9e90-75fd-d813-4c456a8c8df9/825646245451.jpg/1200x1200bf-60.jpg"
+    },
+    {
+      "id": "1783070157682-p75lkf",
+      "title": "十八般武艺",
+      "artist": "王力宏",
+      "albumArtist": "",
+      "year": "2007",
+      "genre": "Pop",
+      "label": "索尼唱片",
+      "catalogNumber": "",
+      "format": "CD",
+      "discs": "1",
+      "condition": "全新",
+      "language": "华语",
+      "country": "台版",
+      "location": "",
+      "purchaseDate": "2026-06-18",
+      "purchasePrice": "",
+      "notes": "",
+      "coverUrl": "https://2a.zol-img.com.cn/product/50_500x2000/366/cec5TTJAuvgyU.jpg"
+    },
+    {
+      "id": "1783070023998-bt3qwv",
+      "title": "I‘m not a star",
+      "artist": "顺子",
+      "albumArtist": "",
+      "year": "1999",
+      "genre": "Pop, R&B",
+      "label": "滚石唱片",
+      "catalogNumber": "",
+      "format": "CD",
+      "discs": "1",
+      "condition": "全新",
+      "language": "华语",
+      "country": "台版",
+      "location": "",
+      "purchaseDate": "2026-06-18",
+      "purchasePrice": "",
+      "notes": "",
+      "coverUrl": "https://th.bing.com/th/id/OIP.fpgOrgWvsWoDd8t8eeuDTAHaHa?o=7rm=3&rs=1&pid=ImgDetMain&o=7&rm=3"
+    },
+    {
+      "id": "1783069947406-d8456q",
+      "title": "给",
+      "artist": "徐佳莹",
+      "albumArtist": "",
+      "year": "2024",
+      "genre": "Pop",
+      "label": "",
+      "catalogNumber": "",
+      "format": "CD",
+      "discs": "1",
+      "condition": "全新",
+      "language": "华语",
+      "country": "台版",
+      "location": "",
+      "purchaseDate": "2026-06-18",
+      "purchasePrice": "",
+      "notes": "",
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/ef/f3/8b/eff38b4c-cf14-e520-0d1b-ecc656f67efa/4711099692903.jpg/1200x1200bf-60.jpg"
+    },
+    {
+      "id": "1783069599976-o9df4l",
+      "title": "跟着感觉走",
+      "artist": "张震岳",
+      "albumArtist": "",
+      "year": "2025",
+      "genre": "Pop, Pop Rock",
+      "label": "滚石唱片",
+      "catalogNumber": "",
+      "format": "CD",
+      "discs": "1",
+      "condition": "全新",
+      "language": "中文",
+      "country": "台版",
+      "location": "",
+      "purchaseDate": "2026-06-18",
+      "purchasePrice": "",
+      "notes": "",
+      "coverUrl": "https://th.bing.com/th/id/R.91fe91fce457a8d3f6fb30f61675c99c?rik=lUg2sJR1M84qOg&riu=http%3a%2f%2fp2.music.126.net%2f105P5IVZPNxI7pVGCeWPSA%3d%3d%2f109951171491749256.jpg&ehk=XhTaaOZp%2fTaxr05HX%2bmIOxfg2CBqKiRvW%2bfhayWR08I%3d&risl=&pid=ImgRaw&r=0"
+    },
     {
       "id": "1782737486691-iwuo4g",
       "title": "挚爱",
@@ -24,7 +164,7 @@
     },
     {
       "id": "1782737486691-sa5ny0",
-      "title": "A-Lin Link",
+      "title": "Link",
       "artist": "A-Lin",
       "albumArtist": "",
       "year": "2018",
@@ -40,7 +180,7 @@
       "purchaseDate": "",
       "purchasePrice": "",
       "notes": "概念专辑，连接不同音乐风格",
-      "coverUrl": "https://img9.doubanio.com/view/subject/l/public/s29794630.jpg"
+      "coverUrl": "https://th.bing.com/th/id/R.0fd0ea256ccd80e40e7d3a6d28ad36bf?rik=%2fPCg5NZplJXIUA&riu=http%3a%2f%2fp1.music.126.net%2fW5qklsOwVwD_ILJpnCKLsA%3d%3d%2f109951167208044048.jpg&ehk=4iJXzFENrC7tKrjq4pj5RMz8VjWwKu3BHvE5kju07qQ%3d&risl=&pid=ImgRaw&r=0"
     },
     {
       "id": "1782737486692-72tjx0",
@@ -2120,7 +2260,7 @@
       "purchaseDate": "",
       "purchasePrice": "",
       "notes": "Twins音乐游记概念专辑，收录《八十块环游世界》、《我很想爱他》等歌曲，风格多元，充满异国风情。",
-      "coverUrl": "https://img2.doubanio.com/view/subject/l/public/s1446681.jpg"
+      "coverUrl": "https://chinesealbumart.com/wp-content/uploads/2008/06/Twins-%E5%85%AB%E5%8D%81%E5%9D%97%E7%8E%AF%E6%B8%B8%E4%B8%96%E7%95%8C.jpg"
     },
     {
       "id": "1782737486700-yw0p2c",
@@ -4660,7 +4800,7 @@
       "purchaseDate": "",
       "purchasePrice": "",
       "notes": "精选集，收录多首经典创作",
-      "coverUrl": "https://img1.doubanio.com/view/subject/l/public/s1872060.jpg"
+      "coverUrl": "https://th.bing.com/th/id/OIP.yZrGnyVCFgydqavj6hElLwHaHa?o=7rm=3&rs=1&pid=ImgDetMain&o=7&rm=3"
     },
     {
       "id": "1782737486709-63fbyu",
@@ -4680,7 +4820,7 @@
       "purchaseDate": "",
       "purchasePrice": "",
       "notes": "首张个人同名专辑，以独特创作才华崭露头角",
-      "coverUrl": "https://img2.doubanio.com/view/subject/l/public/s1445512.jpg"
+      "coverUrl": "https://i.discogs.com/z0iNQsgI1g9xd2TVyM9CUotSVVOC8fcgJVCwweGyShs/rs:fit/g:sm/q:90/h:522/w:583/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1Mjg5/NTMzLTE1ODkyMzc2/MzktMTE0NS5qcGVn.jpeg"
     },
     {
       "id": "1782737486709-wvmwrs",
@@ -4700,27 +4840,7 @@
       "purchaseDate": "",
       "purchasePrice": "",
       "notes": "精选集，收录早期热门歌曲",
-      "coverUrl": "https://img9.doubanio.com/view/subject/l/public/s1445518.jpg"
-    },
-    {
-      "id": "1782737486709-3qe865",
-      "title": "一个人的行李",
-      "artist": "戴佩妮",
-      "albumArtist": "",
-      "year": "2006",
-      "genre": "流行/创作",
-      "label": "",
-      "catalogNumber": "",
-      "format": "CD",
-      "discs": "1",
-      "condition": "良好",
-      "language": "华语",
-      "country": "内地版",
-      "location": "",
-      "purchaseDate": "",
-      "purchasePrice": "",
-      "notes": "创作成熟期作品，曲风独立",
-      "coverUrl": "https://img1.doubanio.com/view/subject/l/public/s1445521.jpg"
+      "coverUrl": "https://i.scdn.co/image/ab67616d00001e02d8a854e20cbe0bd7eca38afd"
     },
     {
       "id": "1782737486709-5by7kz",
@@ -4780,7 +4900,7 @@
       "purchaseDate": "",
       "purchasePrice": "",
       "notes": "成名作，同名主打歌感人至深",
-      "coverUrl": "https://img1.doubanio.com/view/subject/l/public/s1445513.jpg"
+      "coverUrl": "https://images.genius.com/585694b2f39dbe483ee4dd5d41378ee6.700x700x1.jpg"
     },
     {
       "id": "1782737486710-pznfjh",
@@ -4800,7 +4920,7 @@
       "purchaseDate": "",
       "purchasePrice": "",
       "notes": "同名主打歌获金曲奖最佳作曲人",
-      "coverUrl": "https://img2.doubanio.com/view/subject/l/public/s1445519.jpg"
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music5/v4/d7/6c/83/d76c83b9-5f5b-5576-47f5-abec3889c067/825646246342.jpg/1200x1200bf-60.jpg"
     },
     {
       "id": "1782737486710-bscpwr",
@@ -4820,7 +4940,7 @@
       "purchaseDate": "",
       "purchasePrice": "",
       "notes": "同名主打歌获金曲奖最佳作曲人",
-      "coverUrl": "https://img2.doubanio.com/view/subject/l/public/s1445519.jpg"
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music5/v4/d7/6c/83/d76c83b9-5f5b-5576-47f5-abec3889c067/825646246342.jpg/1200x1200bf-60.jpg"
     },
     {
       "id": "1782737486710-x9vfdj",
@@ -4833,14 +4953,14 @@
       "catalogNumber": "",
       "format": "CD",
       "discs": "1",
-      "condition": "良好",
+      "condition": "全新",
       "language": "华语",
       "country": "台版",
       "location": "",
       "purchaseDate": "",
       "purchasePrice": "",
       "notes": "近期作品，探讨旁观者视角",
-      "coverUrl": "https://img9.doubanio.com/view/subject/l/public/s34152991.jpg"
+      "coverUrl": "https://pic4.zhimg.com/v2-fe86515045675c59edb37d30a3257bab_r.jpg"
     },
     {
       "id": "1782737486710-ajynin",
@@ -4860,7 +4980,7 @@
       "purchaseDate": "",
       "purchasePrice": "",
       "notes": "后期作品，曲风更趋实验与成熟",
-      "coverUrl": "https://img1.doubanio.com/view/subject/l/public/s29010511.jpg"
+      "coverUrl": "https://tse2.mm.bing.net/th/id/OIP.G-AUQ6c_DiNhoP4U_Ol4BwHaHa?rs=1&pid=ImgDetMain&o=7&rm=3"
     },
     {
       "id": "1782737486710-adfzlu",
@@ -5500,7 +5620,7 @@
       "purchaseDate": "",
       "purchasePrice": "",
       "notes": "获得了第30届金曲奖最佳国语女歌手奖",
-      "coverUrl": "https://img9.doubanio.com/view/subject/l/public/s29714854.jpg"
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/97/e3/ca/97e3cafa-87d8-0211-437c-a3fb8bed72a9/23UM1IM68085.rgb.jpg/1200x1200bf-60.jpg"
     },
     {
       "id": "1782737486712-n1taz7",
@@ -5520,7 +5640,7 @@
       "purchaseDate": "",
       "purchasePrice": "",
       "notes": "虽名为“2001莲”，但实际是千禧年末发行的跨世纪专辑",
-      "coverUrl": "https://img1.doubanio.com/view/subject/l/public/s2997303.jpg"
+      "coverUrl": "https://is3-ssl.mzstatic.com/image/thumb/Music123/v4/04/de/57/04de5714-1eff-f78d-a7fb-13cfd860263b/825646482221.jpg/1200x1200bf-60.jpg"
     },
     {
       "id": "1782737486712-lavese",
@@ -5540,11 +5660,11 @@
       "purchaseDate": "",
       "purchasePrice": "",
       "notes": "林忆莲加盟维京音乐后的首张国语专辑，由贾敏恕、李偲菘等制作，收录《至少还有你》、《飞翔》等经典曲目，确立其都市女性情歌代言人地位。",
-      "coverUrl": "https://img2.doubanio.com/view/subject/l/public/s2997304.jpg"
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music5/v4/8c/b7/11/8cb71137-cd2b-045d-f39a-7bcd3d6b23d0/825646246601.jpg/1200x1200bf-60.jpg"
     },
     {
       "id": "1782737486712-uw3udn",
-      "title": "回忆莲莲",
+      "title": "回忆忆莲",
       "artist": "林忆莲",
       "albumArtist": "",
       "year": "2006",
@@ -5560,7 +5680,7 @@
       "purchaseDate": "",
       "purchasePrice": "",
       "notes": "精选集，原文本为'回忆忆莲'，已修正为常见专辑名'回忆莲莲'",
-      "coverUrl": "https://img9.doubanio.com/view/subject/l/public/s2997307.jpg"
+      "coverUrl": "https://tse1.mm.bing.net/th/id/OIP.C2GSRYpOucJplyKdOW-vMQHaJy?rs=1&pid=ImgDetMain&o=7&rm=3"
     },
     {
       "id": "1782737486712-282uwf",
@@ -5580,7 +5700,7 @@
       "purchaseDate": "",
       "purchasePrice": "",
       "notes": "精选集",
-      "coverUrl": "https://img1.doubanio.com/view/subject/l/public/s2997308.jpg"
+      "coverUrl": "https://tse4.mm.bing.net/th/id/OIP.NfLaB36ke2y5T67Avlto7wHaHa?rs=1&pid=ImgDetMain&o=7&rm=3"
     },
     {
       "id": "1782737486713-nz3cw1",
@@ -5600,7 +5720,7 @@
       "purchaseDate": "",
       "purchasePrice": "",
       "notes": "表格中未提供相关信息",
-      "coverUrl": "https://img2.doubanio.com/view/subject/l/public/s2997305.jpg"
+      "coverUrl": "https://p1.ssl.qhimg.com/t0176fb846216901382.jpg"
     },
     {
       "id": "1782737486713-5uo4tv",
@@ -5620,7 +5740,7 @@
       "purchaseDate": "",
       "purchasePrice": "",
       "notes": "林忆莲首次担任制作人的概念专辑，以“盖亚”（大地之母）为主题，探讨环保与人性。音乐风格大胆前卫，融合电子、摇滚与实验元素，获第24届金曲奖最佳国语专辑奖。",
-      "coverUrl": "https://img2.doubanio.com/view/subject/l/public/s24545726.jpg"
+      "coverUrl": "https://tse2.mm.bing.net/th/id/OIP.UsvncmNbwPoflevkTnfyYwHaHa?rs=1&pid=ImgDetMain&o=7&rm=3"
     },
     {
       "id": "1782737486713-ntct95",
@@ -5640,7 +5760,7 @@
       "purchaseDate": "",
       "purchasePrice": "",
       "notes": "林忆莲首次担任制作人的概念专辑，以“盖亚”（大地之母）为主题，探讨环保与人性。音乐风格大胆前卫，融合电子、摇滚与实验元素，获第24届金曲奖最佳国语专辑奖。",
-      "coverUrl": "https://img2.doubanio.com/view/subject/l/public/s24545726.jpg"
+      "coverUrl": "https://tse2.mm.bing.net/th/id/OIP.UsvncmNbwPoflevkTnfyYwHaHa?rs=1&pid=ImgDetMain&o=7&rm=3"
     },
     {
       "id": "1782737486713-o3wc2d",
@@ -7740,7 +7860,7 @@
       "purchaseDate": "",
       "purchasePrice": "",
       "notes": "萧亚轩沉寂三年后的复出专辑，专辑名寓意等待的1087个日夜。收录代表作《表白》、《Honey Honey Honey》、《不远》等，全亚洲销量突破100万张，融合复古电子、浩室、嘻哈等多种曲风。",
-      "coverUrl": "https://img3.doubanio.com/view/subject/l/public/s2545238.jpg"
+      "coverUrl": "https://tse3.mm.bing.net/th/id/OIP.edyf4K2eBcMVtbheK-CzDgHaKC?rs=1&pid=ImgDetMain&o=7&rm=3"
     },
     {
       "id": "1782737486720-8mn0l2",
@@ -7760,7 +7880,7 @@
       "purchaseDate": "",
       "purchasePrice": "",
       "notes": "萧亚轩沉寂三年后的复出专辑，专辑名寓意等待的1087个日夜。收录代表作《表白》、《Honey Honey Honey》、《不远》等，全亚洲销量突破100万张，融合复古电子、浩室、嘻哈等多种曲风。",
-      "coverUrl": "https://img3.doubanio.com/view/subject/l/public/s2545238.jpg"
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/9b/76/9e/9b769e2c-6e7b-68b3-409b-5af83f164bd5/6941945171193.jpg/1200x1200bf-60.jpg"
     },
     {
       "id": "1782737486720-yqgjgo",
@@ -7780,7 +7900,7 @@
       "purchaseDate": "",
       "purchasePrice": "",
       "notes": "《1087》专辑的改版，增加收录《后来的我们》等歌曲及DVD内容，'139'代表追加的内容或天数寓意，进一步巩固了复出后的市场热度。",
-      "coverUrl": "https://img3.doubanio.com/view/subject/l/public/s2545238.jpg"
+      "coverUrl": "https://th.bing.com/th/id/R.976ef4915448ad6a850fbd85ec58df6e?rik=n%2bX1MvlbgEHVoQ&riu=http%3a%2f%2fwww.m58.net%2fupimages%2fproduct_pic%2f2007-5%2f2007516175429.jpg&ehk=VKbQlFP47dXu4vkrYoioIWW00sU99mHLkRqSujUTv7U%3d&risl=&pid=ImgRaw&r=0"
     },
     {
       "id": "1782737486720-fe7vl7",
@@ -7800,7 +7920,7 @@
       "purchaseDate": "",
       "purchasePrice": "",
       "notes": "第四张国语大碟，专辑名称寓意“Four You”、“For You”、“4 YOU”，曲风轻快活泼，收录《爱你不要距离》、《因为你》等歌曲。",
-      "coverUrl": "https://chinesealbumart.com/wp-content/uploads/2009/10/elva-hsiao-4u.jpg"
+      "coverUrl": "https://y.gtimg.cn/music/photo_new/T062M000000g4lur0wvq7h.jpg?max_age=0"
     },
     {
       "id": "1782737486720-e57rdc",
@@ -7820,7 +7940,7 @@
       "purchaseDate": "",
       "purchasePrice": "",
       "notes": "第四张国语大碟，专辑名称寓意“Four You”、“For You”、“4 YOU”，曲风轻快活泼，收录《爱你不要距离》、《因为你》等歌曲。",
-      "coverUrl": "https://chinesealbumart.com/wp-content/uploads/2009/10/elva-hsiao-4u.jpg"
+      "coverUrl": "https://y.gtimg.cn/music/photo_new/T062M000000g4lur0wvq7h.jpg?max_age=0"
     },
     {
       "id": "1782737486720-vop5zs",
@@ -7840,7 +7960,7 @@
       "purchaseDate": "",
       "purchasePrice": "",
       "notes": "台北演唱会实况录音，展现了萧亚轩在舞台上的活力与演唱实力，收录《Up to You》等现场曲目。",
-      "coverUrl": "https://img1.doubanio.com/view/subject/l/public/s2996851.jpg"
+      "coverUrl": "https://th.bing.com/th/id/R.60f464b80ae5e6994be40256cbfe4a33?rik=2vk7sgTsOethtw&riu=http%3a%2f%2fimage2.sina.com.cn%2fent%2f2003-05-22%2f3_28-3-326-332_20030522165822.jpg&ehk=vgTbpaULxMwyl8kuJM6m1yHkU5XIRqvmh%2f2kdVESUtg%3d&risl=&pid=ImgRaw&r=0"
     },
     {
       "id": "1782737486720-tmm8du",
@@ -7860,7 +7980,7 @@
       "purchaseDate": "",
       "purchasePrice": "",
       "notes": "台北演唱会实况录音，展现了萧亚轩在舞台上的活力与演唱实力，收录《Up to You》等现场曲目。",
-      "coverUrl": "https://img1.doubanio.com/view/subject/l/public/s2996851.jpg"
+      "coverUrl": "https://th.bing.com/th/id/R.60f464b80ae5e6994be40256cbfe4a33?rik=2vk7sgTsOethtw&riu=http%3a%2f%2fimage2.sina.com.cn%2fent%2f2003-05-22%2f3_28-3-326-332_20030522165822.jpg&ehk=vgTbpaULxMwyl8kuJM6m1yHkU5XIRqvmh%2f2kdVESUtg%3d&risl=&pid=ImgRaw&r=0"
     },
     {
       "id": "1782737486720-o9xml6",
@@ -7880,7 +8000,7 @@
       "purchaseDate": "",
       "purchasePrice": "",
       "notes": "概念专辑，分'真挚'、'勇敢'、'自由'三个版本发行，展现不同面向的自我。收录代表作《类似爱情》、《冲动》、《两个人的寂寞》，发行9天全亚洲出货量达67万张。",
-      "coverUrl": "https://img9.doubanio.com/view/subject/l/public/s3141853.jpg"
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music5/v4/b3/3b/63/b33b63c1-9e90-75fd-d813-4c456a8c8df9/825646245451.jpg/1200x1200bf-60.jpg"
     },
     {
       "id": "1782737486720-4u4gaw",
@@ -7900,7 +8020,7 @@
       "purchaseDate": "",
       "purchasePrice": "",
       "notes": "概念专辑，分'真挚'、'勇敢'、'自由'三个版本发行，展现不同面向的自我。收录代表作《类似爱情》、《冲动》、《两个人的寂寞》，发行9天全亚洲出货量达67万张。",
-      "coverUrl": "https://img9.doubanio.com/view/subject/l/public/s3141853.jpg"
+      "coverUrl": "https://www.ccr.com.tw/GIMG/118/5099923550421_4e1w.JPG"
     },
     {
       "id": "1782737486720-1wtcx4",
@@ -7920,7 +8040,7 @@
       "purchaseDate": "",
       "purchasePrice": "",
       "notes": "第13张个人专辑，音乐风格更加国际化，融入大量电子舞曲元素。主打歌《不解释亲吻》、《类似爱情》（十年后新版）等，展现成熟女人的性感与直接。",
-      "coverUrl": "https://coverartarchive.org/release/5c1c1f22-4edd-47b5-8020-58044b8062a1/front-1200"
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/35/00/51/3500513d-14b0-b582-dc4b-89deb5224d6a/dj.lysibvsa.jpg/1200x1200bf-60.jpg"
     },
     {
       "id": "1782737486720-il6a99",
@@ -7940,7 +8060,7 @@
       "purchaseDate": "",
       "purchasePrice": "",
       "notes": "第13张个人专辑，音乐风格更加国际化，融入大量电子舞曲元素。主打歌《不解释亲吻》、《类似爱情》（十年后新版）等，展现成熟女人的性感与直接。",
-      "coverUrl": "https://coverartarchive.org/release/5c1c1f22-4edd-47b5-8020-58044b8062a1/front-1200"
+      "coverUrl": "https://tse4.mm.bing.net/th/id/OIP.JRvK-p8fMPC7o01R22jIVwAAAA?rs=1&pid=ImgDetMain&o=7&rm=3"
     },
     {
       "id": "1782737486720-ivmm0p",
@@ -7960,7 +8080,7 @@
       "purchaseDate": "",
       "purchasePrice": "",
       "notes": "第12张个人专辑，以“爱自己”为核心概念，音乐制作精良，收录《我爱我》、《逞强》等歌曲。专辑造型前卫，探讨现代女性在爱情中的独立与自省。",
-      "coverUrl": "https://img2.doubanio.com/view/subject/l/public/s6506607.jpg"
+      "coverUrl": "https://y.gtimg.cn/music/photo_new/T002R300x300M000000S0duq0hQC51_1.jpg?max_age=2592000"
     },
     {
       "id": "1782737486720-v5zvhd",
@@ -7980,7 +8100,7 @@
       "purchaseDate": "",
       "purchasePrice": "",
       "notes": "第12张个人专辑，以“爱自己”为核心概念，音乐制作精良，收录《我爱我》、《逞强》等歌曲。专辑造型前卫，探讨现代女性在爱情中的独立与自省。",
-      "coverUrl": "https://img2.doubanio.com/view/subject/l/public/s6506607.jpg"
+      "coverUrl": "https://y.gtimg.cn/music/photo_new/T002R300x300M000000S0duq0hQC51_1.jpg?max_age=2592000"
     },
     {
       "id": "1782737486720-a1llq1",
@@ -8000,7 +8120,7 @@
       "purchaseDate": "",
       "purchasePrice": "",
       "notes": "《我爱我》专辑的改版，通常加收录新单曲或Remix版本，如《遗失的心跳》等，进一步丰富专辑内容，延续电子舞曲风格的热度。",
-      "coverUrl": "https://img2.doubanio.com/view/subject/l/public/s6506607.jpg"
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/25/5b/b6/255bb6f8-da47-0eb9-66a5-a2c43ffe74a4/825646245529.jpg/1200x1200bb.jpg"
     },
     {
       "id": "1782737486721-4s1x1e",
@@ -8020,7 +8140,7 @@
       "purchaseDate": "",
       "purchasePrice": "",
       "notes": "第三张专辑，曲风更加多元化，包含动感舞曲和抒情慢歌，代表作《明天》、《爱情美》广为传唱。",
-      "coverUrl": "https://img1.doubanio.com/view/subject/l/public/s2996840.jpg"
+      "coverUrl": "https://y.gtimg.cn/music/photo_new/T062M0000030jRy83GkUFR.jpg?max_age=0"
     },
     {
       "id": "1782737486721-85magt",
@@ -8040,7 +8160,7 @@
       "purchaseDate": "",
       "purchasePrice": "",
       "notes": "第三张专辑，曲风更加多元化，包含动感舞曲和抒情慢歌，代表作《明天》、《爱情美》广为传唱。",
-      "coverUrl": "https://img1.doubanio.com/view/subject/l/public/s2996840.jpg"
+      "coverUrl": "https://y.gtimg.cn/music/photo_new/T062M0000030jRy83GkUFR.jpg?max_age=0"
     },
     {
       "id": "1782737486721-lzajjz",
@@ -8060,7 +8180,7 @@
       "purchaseDate": "",
       "purchasePrice": "",
       "notes": "第11张个人专辑，主打歌《潇洒小姐》融合嘻哈与舞曲元素，传递自信洒脱的女性态度；另收录《错的人》等深情金曲，曲风刚柔并济。",
-      "coverUrl": "https://img2.doubanio.com/view/subject/l/public/s4534368.jpg"
+      "coverUrl": "https://www.sinaimg.cn/ent/y/d/2010-10-08/U1819P28T3D3106230F326DT20101008142354.jpg"
     },
     {
       "id": "1782737486721-92pcq5",
@@ -8080,7 +8200,7 @@
       "purchaseDate": "",
       "purchasePrice": "",
       "notes": "第11张个人专辑，主打歌《潇洒小姐》融合嘻哈与舞曲元素，传递自信洒脱的女性态度；另收录《错的人》等深情金曲，曲风刚柔并济。",
-      "coverUrl": "https://img2.doubanio.com/view/subject/l/public/s4534368.jpg"
+      "coverUrl": "https://p1.ssl.qhimg.com/t010a139f00a67abfbc.jpg"
     },
     {
       "id": "1782737486721-6tvrpd",
@@ -8100,7 +8220,7 @@
       "purchaseDate": "",
       "purchasePrice": "",
       "notes": "第六张专辑，尝试更多元化的音乐风格，包括摇滚元素，收录《爱上爱》、《秘密》等作品。",
-      "coverUrl": "https://img9.doubanio.com/view/subject/l/public/s2996843.jpg"
+      "coverUrl": "https://tse1.mm.bing.net/th/id/OIP.kIELbC10u5TiuzH5bqTQkQHaHa?rs=1&pid=ImgDetMain&o=7&rm=3"
     },
     {
       "id": "1782737486721-cjladg",
@@ -8120,7 +8240,7 @@
       "purchaseDate": "",
       "purchasePrice": "",
       "notes": "第六张专辑，尝试更多元化的音乐风格，包括摇滚元素，收录《爱上爱》、《秘密》等作品。",
-      "coverUrl": "https://img9.doubanio.com/view/subject/l/public/s2996843.jpg"
+      "coverUrl": "https://tse1.mm.bing.net/th/id/OIP.kIELbC10u5TiuzH5bqTQkQHaHa?rs=1&pid=ImgDetMain&o=7&rm=3"
     },
     {
       "id": "1782737486721-e54cuk",
@@ -8140,7 +8260,7 @@
       "purchaseDate": "",
       "purchasePrice": "",
       "notes": "新歌加精选",
-      "coverUrl": "https://img1.doubanio.com/view/subject/l/public/s6989250.jpg"
+      "coverUrl": "https://tse1.mm.bing.net/th/id/OIP.9go_rxdJE7Qti08g7KcaqAHaHX?rs=1&pid=ImgDetMain&o=7&rm=3"
     },
     {
       "id": "1782737486721-3zba2j",
@@ -8160,7 +8280,7 @@
       "purchaseDate": "",
       "purchasePrice": "",
       "notes": "新歌加精选",
-      "coverUrl": "https://img1.doubanio.com/view/subject/l/public/s6989250.jpg"
+      "coverUrl": "https://tse1.mm.bing.net/th/id/OIP.9go_rxdJE7Qti08g7KcaqAHaHX?rs=1&pid=ImgDetMain&o=7&rm=3"
     },
     {
       "id": "1782737486721-qfqmrw",
@@ -8180,7 +8300,7 @@
       "purchaseDate": "",
       "purchasePrice": "",
       "notes": "第五张专辑，以舞曲为主打，同名主打歌《爱的主打歌》成为其代表性舞曲之一，展现了强烈的舞台魅力。",
-      "coverUrl": "https://img2.doubanio.com/view/subject/l/public/s2996841.jpg"
+      "coverUrl": "https://www.yuehaishibei.com/wp-content/uploads/2022/03/1646896700-cd9e65a894e4b8d.jpg"
     },
     {
       "id": "1782737486721-i1aim2",
@@ -8200,7 +8320,7 @@
       "purchaseDate": "",
       "purchasePrice": "",
       "notes": "第五张专辑，以舞曲为主打，同名主打歌《爱的主打歌》成为其代表性舞曲之一，展现了强烈的舞台魅力。",
-      "coverUrl": "https://img2.doubanio.com/view/subject/l/public/s2996841.jpg"
+      "coverUrl": "https://www.yuehaishibei.com/wp-content/uploads/2022/03/1646896700-cd9e65a894e4b8d.jpg"
     },
     {
       "id": "1782737486721-wrcro2",
@@ -8220,7 +8340,7 @@
       "purchaseDate": "",
       "purchasePrice": "",
       "notes": "第七张专辑，以纽约第五大道为灵感，融入Hip-Hop和时尚元素，主打歌《爱情通关密语》、《地下铁》。",
-      "coverUrl": "https://img3.doubanio.com/view/subject/l/public/s2996844.jpg"
+      "coverUrl": "https://img10.360buyimg.com/n1/jfs/t3130/211/1170355644/49587/9fdc4365/57c78ea8Na090e1b6.jpg"
     },
     {
       "id": "1782737486721-7ca6vj",
@@ -8240,7 +8360,7 @@
       "purchaseDate": "",
       "purchasePrice": "",
       "notes": "第七张专辑，以纽约第五大道为灵感，融入Hip-Hop和时尚元素，主打歌《爱情通关密语》、《地下铁》。",
-      "coverUrl": "https://img3.doubanio.com/view/subject/l/public/s2996844.jpg"
+      "coverUrl": "https://img10.360buyimg.com/n1/jfs/t3130/211/1170355644/49587/9fdc4365/57c78ea8Na090e1b6.jpg"
     },
     {
       "id": "1782737486721-srhrib",
@@ -8260,7 +8380,7 @@
       "purchaseDate": "",
       "purchasePrice": "",
       "notes": "第二张个人专辑，延续R&B风格并融入更多流行元素，主打歌《红蔷薇》、《一个人的精彩》展现了其多变的音乐形象。",
-      "coverUrl": "https://img9.doubanio.com/view/subject/l/public/s2996839.jpg"
+      "coverUrl": "https://m.media-amazon.com/images/I/51-1qeBeQOL.jpg"
     },
     {
       "id": "1782737486721-fg2gwf",
@@ -8280,7 +8400,7 @@
       "purchaseDate": "",
       "purchasePrice": "",
       "notes": "第二张个人专辑，延续R&B风格并融入更多流行元素，主打歌《红蔷薇》、《一个人的精彩》展现了其多变的音乐形象。",
-      "coverUrl": "https://img9.doubanio.com/view/subject/l/public/s2996839.jpg"
+      "coverUrl": "https://m.media-amazon.com/images/I/51-1qeBeQOL.jpg"
     },
     {
       "id": "1782737486722-27l6fb",
@@ -8300,7 +8420,7 @@
       "purchaseDate": "",
       "purchasePrice": "",
       "notes": "第八张专辑，回归抒情路线，音乐风格更加细腻，收录《美丽的插曲》、《相对无言》等深情曲目。",
-      "coverUrl": "https://img2.doubanio.com/view/subject/l/public/s2996848.jpg"
+      "coverUrl": "https://y.gtimg.cn/music/photo_new/T062M000000uQhb72UoWXE.jpg?max_age=0"
     },
     {
       "id": "1782737486722-oqz3h6",
@@ -8320,7 +8440,7 @@
       "purchaseDate": "",
       "purchasePrice": "",
       "notes": "第八张专辑，回归抒情路线，音乐风格更加细腻，收录《美丽的插曲》、《相对无言》等深情曲目。",
-      "coverUrl": "https://img2.doubanio.com/view/subject/l/public/s2996848.jpg"
+      "coverUrl": "https://y.gtimg.cn/music/photo_new/T062M000000uQhb72UoWXE.jpg?max_age=0"
     },
     {
       "id": "1782737486722-aywte5",
@@ -8340,7 +8460,7 @@
       "purchaseDate": "",
       "purchasePrice": "",
       "notes": "萧亚轩出道首张专辑，以独特的中低音嗓音和R&B曲风打破当时歌坛高音主流，收录《最熟悉的陌生人》、《Cappuccino》等经典曲目。",
-      "coverUrl": "https://img1.doubanio.com/view/subject/l/public/s2996837.jpg"
+      "coverUrl": "https://th.bing.com/th/id/OIP.sP0QkrvWMlO9JbxmkSn78wHaHa?o=7rm=3&rs=1&pid=ImgDetMain&o=7&rm=3"
     },
     {
       "id": "1782737486722-f41aoz",
@@ -8360,7 +8480,7 @@
       "purchaseDate": "",
       "purchasePrice": "",
       "notes": "萧亚轩出道首张专辑，以独特的中低音嗓音和R&B曲风打破当时歌坛高音主流，收录《最熟悉的陌生人》、《Cappuccino》等经典曲目。",
-      "coverUrl": "https://img1.doubanio.com/view/subject/l/public/s2996837.jpg"
+      "coverUrl": "https://th.bing.com/th/id/OIP.sP0QkrvWMlO9JbxmkSn78wHaHa?o=7rm=3&rs=1&pid=ImgDetMain&o=7&rm=3"
     },
     {
       "id": "1782737486722-t8q28d",
@@ -8380,7 +8500,7 @@
       "purchaseDate": "",
       "purchasePrice": "",
       "notes": "萧亚轩出道十周年纪念专辑，概念华丽，收录《闪闪惹人爱》、《倒数》、《颤栗传奇》等动感舞曲，获得内地及海外多个榜单冠军。",
-      "coverUrl": "https://img2.doubanio.com/view/subject/l/public/s4147217.jpg"
+      "coverUrl": "https://tse4.mm.bing.net/th/id/OIP.Co7tXlPGTbqW0ZTF0nFmUwAAAA?rs=1&pid=ImgDetMain&o=7&rm=3"
     },
     {
       "id": "1782737486722-y05w3x",
@@ -8400,7 +8520,7 @@
       "purchaseDate": "",
       "purchasePrice": "",
       "notes": "萧亚轩出道十周年纪念专辑，概念华丽，收录《闪闪惹人爱》、《倒数》、《颤栗传奇》等动感舞曲，获得内地及海外多个榜单冠军。",
-      "coverUrl": "https://img2.doubanio.com/view/subject/l/public/s4147217.jpg"
+      "coverUrl": "https://is2-ssl.mzstatic.com/image/thumb/Music123/v4/2a/46/62/2a4662bf-bfe1-89d7-a305-09edff8ad94c/825646245499.jpg/1200x1200bf-60.jpg"
     },
     {
       "id": "1782737486722-h3r4lg",
@@ -8420,7 +8540,7 @@
       "purchaseDate": "",
       "purchasePrice": "",
       "notes": "收录“WOW世界巡回演唱会”台北小巨蛋站实况，并附加《钻石糖》专辑中的热门新歌，展现其“时尚舞后”的舞台魅力与唱跳实力。",
-      "coverUrl": "https://img1.doubanio.com/view/subject/l/public/s4614196.jpg"
+      "coverUrl": "https://th.bing.com/th/id/R.f4fb4d27e93c87628657846b7471814f?rik=O8I0bw7InyZUjg&riu=http%3a%2f%2fwww.m58.net%2fupimages%2fproduct_pic%2f2009-11%2f20091110205212.jpg&ehk=FtqzSsyA238BExGBX2EcSUqnIZ9stZZaDfb8GGiqQ1w%3d&risl=&pid=ImgRaw&r=0"
     },
     {
       "id": "1782737486722-cs31yc",
@@ -8440,7 +8560,7 @@
       "purchaseDate": "",
       "purchasePrice": "",
       "notes": "收录“WOW世界巡回演唱会”台北小巨蛋站实况，并附加《钻石糖》专辑中的热门新歌，展现其“时尚舞后”的舞台魅力与唱跳实力。",
-      "coverUrl": "https://img1.doubanio.com/view/subject/l/public/s4614196.jpg"
+      "coverUrl": "https://th.bing.com/th/id/R.f4fb4d27e93c87628657846b7471814f?rik=O8I0bw7InyZUjg&riu=http%3a%2f%2fwww.m58.net%2fupimages%2fproduct_pic%2f2009-11%2f20091110205212.jpg&ehk=FtqzSsyA238BExGBX2EcSUqnIZ9stZZaDfb8GGiqQ1w%3d&risl=&pid=ImgRaw&r=0"
     },
     {
       "id": "1782737486722-krcars",
@@ -8460,7 +8580,7 @@
       "purchaseDate": "",
       "purchasePrice": "",
       "notes": "萧亚轩在香港红磡体育馆举办的首场个人演唱会实况录音，收录多首经典歌曲的现场版本。",
-      "coverUrl": "https://img9.doubanio.com/view/subject/l/public/s2996857.jpg"
+      "coverUrl": "https://th.bing.com/th/id/OIP.E-oseZuqNBi4x4iMaCXTBwAAAA?o=7rm=3&rs=1&pid=ImgDetMain&o=7&rm=3"
     },
     {
       "id": "1782737486722-q1xqwp",
