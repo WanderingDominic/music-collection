@@ -1,7 +1,47 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-08T07:47:43.771Z",
+  "updatedAt": "2026-08-08T09:22:15.337Z",
   "records": [
+    {
+      "id": "1786180863490-85k7lv",
+      "title": "Forever 新歌+精选",
+      "artist": "S.H.E",
+      "albumArtist": "",
+      "year": "2006",
+      "genre": "Pop",
+      "label": "华研唱片",
+      "catalogNumber": "",
+      "format": "CD",
+      "discs": "2",
+      "condition": "全新",
+      "language": "华语/普通话",
+      "country": "台版",
+      "location": "",
+      "purchaseDate": "",
+      "purchasePrice": "",
+      "notes": "",
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music/v4/5f/a6/f5/5fa6f519-a380-d4b0-5c4f-7d723a5441b8/FOREVER.jpg/316x316bb.webp"
+    },
+    {
+      "id": "1786180650301-u50ivm",
+      "title": "美丽新世界",
+      "artist": "S.H.E",
+      "albumArtist": "",
+      "year": "2002",
+      "genre": "Pop, Teen Pop, Dance-Pop",
+      "label": "华研唱片",
+      "catalogNumber": "",
+      "format": "CD",
+      "discs": "1",
+      "condition": "全新",
+      "language": "华语/普通话",
+      "country": "台版",
+      "location": "",
+      "purchaseDate": "2026-06-18",
+      "purchasePrice": "",
+      "notes": "",
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/ac/33/74/ac3374d8-52dc-7237-b31a-edc9c8ed9d08/asset.jpg/316x316bf.webp"
+    },
     {
       "id": "1786174834142-fqelvc",
       "title": "麦田捕手",
@@ -1420,7 +1460,7 @@
       "purchaseDate": "",
       "purchasePrice": "",
       "notes": "备注：材料未提供。日版通常包含额外曲目如《California Gurls (Passion Pit Main Mix)》或《Teenage Dream (Kaskade Club Remix)》等，具体曲目数视发行批次而定，基于通用知识。",
-      "coverUrl": "https://coverartarchive.org/release/40037016-c38c-442d-8cb9-56bdf26e0e5f/front-1200"
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/cf/3a/a3/cf3aa3ef-731b-6b77-1277-eaa9975ee27e/13UABIM57790.rgb.jpg/316x316bb.webp"
     },
     {
       "id": "1782737486696-nyv1r9",
@@ -1440,7 +1480,7 @@
       "purchaseDate": "",
       "purchasePrice": "",
       "notes": "主要单曲：《California Gurls》、《Teenage Dream》、《Firework》、《E.T.》、《Last Friday Night (T.G.I.F.)》。备注：材料未提供，基于通用知识。",
-      "coverUrl": "https://coverartarchive.org/release/40037016-c38c-442d-8cb9-56bdf26e0e5f/front-1200"
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/cf/3a/a3/cf3aa3ef-731b-6b77-1277-eaa9975ee27e/13UABIM57790.rgb.jpg/316x316bb.webp"
     },
     {
       "id": "1782737486696-ca16a9",
@@ -2140,7 +2180,7 @@
       "purchaseDate": "",
       "purchasePrice": "",
       "notes": "S.H.E音乐转型之作，同名主打歌融入摇滚元素，打破以往甜美形象，销量与传唱度极高。",
-      "coverUrl": "https://coverartarchive.org/release/60edfd1f-3cdd-4a4f-82ad-eb774ddd7b49/front-1200"
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music/v4/db/a4/c3/dba4c3d4-46d0-bacf-6e23-d6ece7c6e4ec/Super_Star.jpg/316x316bf.webp"
     },
     {
       "id": "1782737486699-h6ugd7",
@@ -2160,7 +2200,7 @@
       "purchaseDate": "",
       "purchasePrice": "",
       "notes": "S.H.E首张新歌加精选辑，收录《Always On My Mind》及多首成名作，记录组合早期成长轨迹。",
-      "coverUrl": "https://img2.doubanio.com/view/subject/l/public/s1446592.jpg"
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/02/bb/87/02bb87f5-6925-4928-f915-8dc967c18320/Together.jpg/316x316bf.webp"
     },
     {
       "id": "1782737486699-8ne249",
@@ -2180,7 +2220,7 @@
       "purchaseDate": "",
       "purchasePrice": "",
       "notes": "主打歌采样莫扎特《第40号交响曲》，融合古典与流行，探讨成长主题，概念鲜明。",
-      "coverUrl": "https://coverartarchive.org/release/b250269e-dfc1-435d-8d2c-f4d8d75f2c41/front-1200"
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/ac/2f/4c/ac2f4c6c-6764-009e-5364-9e625e62393d/asset.jpg/316x316bf.webp"
     },
     {
       "id": "1782737486699-h8423b",
@@ -2200,7 +2240,7 @@
       "purchaseDate": "",
       "purchasePrice": "",
       "notes": "S.H.E第四张专辑，收录《候鸟》、《痛快》等金曲，展现更成熟的音乐风格与舞蹈实力。",
-      "coverUrl": "https://coverartarchive.org/release/53ed5be8-ddbb-4ac9-8de4-559e2f1e2976/front-1200"
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music/v4/5e/e7/85/5ee78506-6d17-a94e-8c7c-4b11b2b6a6c3/Encore.jpg/316x316bf.webp"
     },
     {
       "id": "1782737486699-87hq4l",
@@ -2220,7 +2260,7 @@
       "purchaseDate": "",
       "purchasePrice": "",
       "notes": "S.H.E第四张专辑台湾原版，包装与曲目配置针对台湾市场，收录《候鸟》、《痛快》等。",
-      "coverUrl": "https://coverartarchive.org/release/53ed5be8-ddbb-4ac9-8de4-559e2f1e2976/front-1200"
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music/v4/5e/e7/85/5ee78506-6d17-a94e-8c7c-4b11b2b6a6c3/Encore.jpg/316x316bf.webp"
     },
     {
       "id": "1782737486699-xv0jxk",
@@ -2240,7 +2280,7 @@
       "purchaseDate": "",
       "purchasePrice": "",
       "notes": "概念专辑，以电台形式串联曲目，收录《宇宙小姐》、《安静了》等，尝试电子与多元曲风。",
-      "coverUrl": "https://img1.doubanio.com/view/subject/l/public/s3263417.jpg"
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/97/26/bf/9726bf1a-1548-9b7f-902a-b3b1f5fad9ad/asset.jpg/316x316bf.webp"
     },
     {
       "id": "1782737486699-t88m2g",
