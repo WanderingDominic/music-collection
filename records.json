@@ -1,7 +1,87 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-07-11T02:21:54.584Z",
+  "updatedAt": "2026-08-08T07:29:33.961Z",
   "records": [
+    {
+      "id": "1786174089638-81lr5d",
+      "title": "快乐为主",
+      "artist": "许慧欣",
+      "albumArtist": "",
+      "year": "2002",
+      "genre": "Pop,",
+      "label": "环球唱片",
+      "catalogNumber": "",
+      "format": "CD",
+      "discs": "1",
+      "condition": "良好",
+      "language": "中文",
+      "country": "台版",
+      "location": "",
+      "purchaseDate": "",
+      "purchasePrice": "",
+      "notes": "",
+      "coverUrl": "https://th.bing.com/th/id/OIP.ewo98FU1Zo41qO56iOQkFwHaHa?r=0&o=7rm=3&rs=1&pid=ImgDetMain&o=7&rm=3"
+    },
+    {
+      "id": "1786174037134-z21d3d",
+      "title": "爱像大海",
+      "artist": "李心洁",
+      "albumArtist": "",
+      "year": "1998",
+      "genre": "Pop, Pop Rock",
+      "label": "滚石唱片",
+      "catalogNumber": "",
+      "format": "CD",
+      "discs": "1",
+      "condition": "良好",
+      "language": "中文",
+      "country": "台版",
+      "location": "",
+      "purchaseDate": "",
+      "purchasePrice": "",
+      "notes": "",
+      "coverUrl": "https://th.bing.com/th/id/OIP.S8um-_sB-RE3C9G9rtv-4QAAAA?r=0&o=7rm=3&rs=1&pid=ImgDetMain&o=7&rm=3"
+    },
+    {
+      "id": "1786173841666-n07drv",
+      "title": "贼",
+      "artist": "戴佩妮",
+      "albumArtist": "",
+      "year": "",
+      "genre": "",
+      "label": "",
+      "catalogNumber": "",
+      "format": "黑胶",
+      "discs": "1",
+      "condition": "全新",
+      "language": "",
+      "country": "内地版",
+      "location": "",
+      "purchaseDate": "2026-08-01",
+      "purchasePrice": "",
+      "notes": "",
+      "coverUrl": "https://tse2.mm.bing.net/th/id/OIP.G-AUQ6c_DiNhoP4U_Ol4BwHaHa?r=0&rs=1&pid=ImgDetMain&o=7&rm=3"
+    },
+    {
+      "id": "1786173798966-cqx996",
+      "title": "纯属意外",
+      "artist": "戴佩妮",
+      "albumArtist": "",
+      "year": "",
+      "genre": "Pop",
+      "label": "",
+      "catalogNumber": "",
+      "format": "CD",
+      "discs": "1",
+      "condition": "良好",
+      "language": "",
+      "country": "内地版",
+      "location": "",
+      "purchaseDate": "2026-08-01",
+      "purchasePrice": "",
+      "notes": "",
+      "coverUrl": "https://th.bing.com/th/id/R.74f9b84eac956732fb723c251773718c?rik=ZGOYAVC985WK6Q&riu=http%3a%2f%2fphotocdn.sohu.com%2f20130723%2fImg382326478.jpg&ehk=wtEWhDFhOz%2bfFChZ9qpzSlTaC%2fZUwxSODvaqKn69EuY%3d&risl=&pid=ImgRaw&r=0"
+    },
     {
       "id": "1783736008793-m6ujee",
       "title": "Cyndi with U",
@@ -40,7 +120,7 @@
       "purchaseDate": "",
       "purchasePrice": "",
       "notes": "",
-      "coverUrl": "https://th.bing.com/th/id/OIP.yZrGnyVCFgydqavj6hElLwHaHa?o=7rm=3&rs=1&pid=ImgDetMain&o=7&rm=3"
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/e3/24/71/e32471e0-d17f-895c-a153-5ae6f986b3bb/cover.jpg/1200x1200bf-60.jpg"
     },
     {
       "id": "1783071355736-6z2tkz",
@@ -4820,7 +4900,7 @@
       "purchaseDate": "",
       "purchasePrice": "",
       "notes": "精选集，收录多首经典创作",
-      "coverUrl": "https://th.bing.com/th/id/OIP.yZrGnyVCFgydqavj6hElLwHaHa?o=7rm=3&rs=1&pid=ImgDetMain&o=7&rm=3"
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/e3/24/71/e32471e0-d17f-895c-a153-5ae6f986b3bb/cover.jpg/1200x1200bf-60.jpg"
     },
     {
       "id": "1782737486709-63fbyu",
@@ -4880,7 +4960,7 @@
       "purchaseDate": "",
       "purchasePrice": "",
       "notes": "精选集，收录创作精华",
-      "coverUrl": "https://img2.doubanio.com/view/subject/l/public/s1445522.jpg"
+      "coverUrl": "https://so1.360tres.com/t0165578f33bd724327.jpg"
     },
     {
       "id": "1782737486710-fs05z2",
@@ -4900,7 +4980,7 @@
       "purchaseDate": "",
       "purchasePrice": "",
       "notes": "温暖治愈，探讨归途与初心",
-      "coverUrl": "https://img9.doubanio.com/view/subject/l/public/s6988209.jpg"
+      "coverUrl": "https://so1.360tres.com/dr/270_500_/t01a721dc8d89bcec0a.jpg?size=268x335"
     },
     {
       "id": "1782737486710-s6rz12",
@@ -5000,7 +5080,7 @@
       "purchaseDate": "",
       "purchasePrice": "",
       "notes": "后期作品，曲风更趋实验与成熟",
-      "coverUrl": "https://tse2.mm.bing.net/th/id/OIP.G-AUQ6c_DiNhoP4U_Ol4BwHaHa?rs=1&pid=ImgDetMain&o=7&rm=3"
+      "coverUrl": "https://tse2.mm.bing.net/th/id/OIP.ElKysDZBNy8PxbM2J-gkIAHaHa?r=0&rs=1&pid=ImgDetMain&o=7&rm=3"
     },
     {
       "id": "1782737486710-adfzlu",
@@ -9060,7 +9140,7 @@
       "purchaseDate": "",
       "purchasePrice": "",
       "notes": "许慧欣首张精选集，收录《独立宣言》、《孤单芭蕾》等出道以来的热门金曲，回顾其早期音乐历程。",
-      "coverUrl": "https://img1.doubanio.com/view/subject/l/public/s2995917.jpg"
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/e4/8f/21/e48f21b2-2a02-9812-3bf2-e5e17515f6ba/06UMGIM61673.rgb.jpg/316x316bb.webp"
     },
     {
       "id": "1782737486724-uq90m1",
@@ -9080,7 +9160,7 @@
       "purchaseDate": "",
       "purchasePrice": "",
       "notes": "许慧欣加盟新东家后的专辑，风格更加成熟，收录《诗的水晶宫》、《幸福》等歌曲，探讨爱情与自我。",
-      "coverUrl": "https://img9.doubanio.com/view/subject/l/public/s2995926.jpg"
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/34/ba/22/34ba22b9-a38a-cc06-82da-038a56c9a00f/00602498219409.rgb.jpg/1200x1200bf-60.jpg"
     },
     {
       "id": "1782737486724-q06ihc",
@@ -9100,7 +9180,7 @@
       "purchaseDate": "",
       "purchasePrice": "",
       "notes": "许慧欣第二张个人专辑，延续其“雪白精灵”形象，收录《七月七日晴》、《我美丽的爱情》等经典情歌。",
-      "coverUrl": "https://img2.doubanio.com/view/subject/l/public/s2995925.jpg"
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/51/5d/cc/515dccde-5846-1a8b-509b-45e4ee9f8cfb/00602498090190.rgb.jpg/316x316bf.webp"
     },
     {
       "id": "1782737486724-ab1gox",
