@@ -1,7 +1,27 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-08T07:38:11.831Z",
+  "updatedAt": "2026-08-08T07:47:43.771Z",
   "records": [
+    {
+      "id": "1786174834142-fqelvc",
+      "title": "麦田捕手",
+      "artist": "白安",
+      "albumArtist": "",
+      "year": "2012",
+      "genre": "Pop,",
+      "label": "相信音乐",
+      "catalogNumber": "",
+      "format": "黑胶",
+      "discs": "1",
+      "condition": "全新",
+      "language": "",
+      "country": "台版",
+      "location": "",
+      "purchaseDate": "",
+      "purchasePrice": "",
+      "notes": "",
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/bd/69/2c/bd692c7e-ac11-0275-ec21-6a29d7952d7a/1500_BD0062l.jpg/316x316bf.webp"
+    },
     {
       "id": "1786174089638-81lr5d",
       "title": "快乐为主",
@@ -4680,7 +4700,7 @@
       "purchaseDate": "",
       "purchasePrice": "",
       "notes": "转型之作，尝试成熟性感风格，含同名主打歌",
-      "coverUrl": "https://img9.doubanio.com/view/subject/l/public/s1445763.jpg"
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music69/v4/b5/e2/93/b5e29326-0341-da3a-34fc-0ff6974e2116/cover.jpg/316x316bf.webp"
     },
     {
       "id": "1782737486708-z3bpx0",
@@ -4720,11 +4740,11 @@
       "purchaseDate": "",
       "purchasePrice": "",
       "notes": "精选或特定主题专辑，侧重情感表达",
-      "coverUrl": "https://img1.doubanio.com/view/subject/l/public/s1445761.jpg"
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Features114/v4/ea/d3/18/ead31819-d708-e99a-c51c-ef1d0d25fa5c/dj.pbmpqsvn.jpg/316x316bf.webp"
     },
     {
       "id": "1782737486709-c7rtay",
-      "title": "光之蜕变",
+      "title": "光致.蜕变",
       "artist": "徐怀钰",
       "albumArtist": "",
       "year": "2008",
@@ -4740,7 +4760,7 @@
       "purchaseDate": "",
       "purchasePrice": "",
       "notes": "复出专辑，融合电子元素，象征新生",
-      "coverUrl": "https://img9.doubanio.com/view/subject/l/public/s3219597.jpg"
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/ee/b2/cc/eeb2cca7-f359-ef8c-fbbb-64dd391ce1e4/dj.mxmuqwxi.jpg/316x316bf.webp"
     },
     {
       "id": "1782737486709-lebola",
@@ -4760,7 +4780,7 @@
       "purchaseDate": "",
       "purchasePrice": "",
       "notes": "首张个人专辑，以《飞起来》《爱像一场重感冒》走红",
-      "coverUrl": "https://img1.doubanio.com/view/subject/l/public/s1445753.jpg"
+      "coverUrl": "光致.蜕变"
     },
     {
       "id": "1782737486709-crilaz",
@@ -4780,7 +4800,7 @@
       "purchaseDate": "",
       "purchasePrice": "",
       "notes": "第二张专辑（部分版本归为第一张正式大碟），成名作，含《向前冲》《怪兽》",
-      "coverUrl": "https://img2.doubanio.com/view/subject/l/public/s1445752.jpg"
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/d5/29/6e/d5296e2f-d687-32f3-7171-e68ea600eb76/RD1477.4_Cover1440.jpg/316x316bf.webp"
     },
     {
       "id": "1782737486709-85wj3h",
@@ -4799,8 +4819,8 @@
       "location": "",
       "purchaseDate": "",
       "purchasePrice": "",
-      "notes": "第二张专辑，确立“平民天后”地位，含《天使》等金曲",
-      "coverUrl": "https://img2.doubanio.com/view/subject/l/public/s1445757.jpg"
+      "notes": "第3张专辑，确立“平民天后”地位，含《天使》等金曲",
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music/v4/b6/9a/ba/b69aba1e-60c1-a5a5-b900-b877bcbc2a38/RD1500.jpg/316x316bf.webp"
     },
     {
       "id": "1782737486709-q3yvw5",
@@ -4820,7 +4840,7 @@
       "purchaseDate": "",
       "purchasePrice": "",
       "notes": "展现多面女性形象，曲风清新与动感并存",
-      "coverUrl": "https://img1.doubanio.com/view/subject/l/public/s1445759.jpg"
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/c2/25/2a/c2252aeb-d39a-13f5-1809-69e86347df45/dj.iaqoysfo.jpg/316x316bf.webp"
     },
     {
       "id": "1782737486709-r7wd70",
@@ -4832,7 +4852,7 @@
       "label": "",
       "catalogNumber": "",
       "format": "CD",
-      "discs": "1",
+      "discs": "2",
       "condition": "良好",
       "language": "华语",
       "country": "台版",
@@ -4840,7 +4860,7 @@
       "purchaseDate": "",
       "purchasePrice": "",
       "notes": "风格大胆，探索都市女性情感与欲望主题",
-      "coverUrl": "https://img9.doubanio.com/view/subject/l/public/s1445760.jpg"
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/ee/b2/cc/eeb2cca7-f359-ef8c-fbbb-64dd391ce1e4/dj.mxmuqwxi.jpg/316x316bf.webp"
     },
     {
       "id": "1782737486709-0l8mul",
@@ -5160,7 +5180,7 @@
       "purchaseDate": "",
       "purchasePrice": "",
       "notes": "巅峰代表作，含《DiDaDi》《暗示》《答案》等",
-      "coverUrl": "https://img2.doubanio.com/view/subject/l/public/s1446804.jpg"
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/0e/7f/b7/0e7fb735-0898-7a99-3fc3-e23913cce413/886447846575.jpg/316x316bf.webp"
     },
     {
       "id": "1782737486710-0xzaeb",
@@ -5180,7 +5200,7 @@
       "purchaseDate": "",
       "purchasePrice": "",
       "notes": "英文专辑，国际发行",
-      "coverUrl": "https://img9.doubanio.com/view/subject/l/public/s2445747.jpg"
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music/ed/9b/a2/mzi.ppkrutgg.jpg/316x316bf.webp"
     },
     {
       "id": "1782737486710-okl0m4",
@@ -5200,7 +5220,7 @@
       "purchaseDate": "",
       "purchasePrice": "",
       "notes": "首张英文专辑，进军国际市场的代表作，含《Do You Want My Love》",
-      "coverUrl": "https://img1.doubanio.com/view/subject/l/public/s1446811.jpg"
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/05/80/7e/05807e5c-9760-9bea-5a66-d90026d9d0dc/mzi.icvfvzgq.jpg/316x316bf.webp"
     },
     {
       "id": "1782737486710-xqgh2o",
@@ -5220,7 +5240,7 @@
       "purchaseDate": "",
       "purchasePrice": "",
       "notes": "双语专辑，含《刀马旦》等金曲",
-      "coverUrl": "https://img1.doubanio.com/view/subject/l/public/s1446812.jpg"
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/d3/75/e2/d375e2f2-a9e6-840a-4883-5510498ac17a/886446806662.jpg/316x316bf.webp"
     },
     {
       "id": "1782737486710-fyr6h1",
@@ -5240,7 +5260,7 @@
       "purchaseDate": "",
       "purchasePrice": "",
       "notes": "跨世纪专辑，曲风多元",
-      "coverUrl": "https://img2.doubanio.com/view/subject/l/public/s1446807.jpg"
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/bb/d7/59/bbd759f4-0db3-4ddf-0749-26aa5fdc4536/196871498845.jpg/316x316bf.webp"
     },
     {
       "id": "1782737486711-d0vo13",
@@ -5260,11 +5280,11 @@
       "purchaseDate": "",
       "purchasePrice": "",
       "notes": "轻快曲风，同名主打歌流行度高",
-      "coverUrl": "https://img9.doubanio.com/view/subject/l/public/s1446806.jpg"
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music/fe/83/04/mzi.rroeidnj.jpg/316x316bf.webp"
     },
     {
       "id": "1782737486711-f0dysn",
-      "title": "往日情/爱我久一点",
+      "title": "同名专辑",
       "artist": "李玟",
       "albumArtist": "",
       "year": "1996",
@@ -5280,11 +5300,11 @@
       "purchaseDate": "",
       "purchasePrice": "",
       "notes": "早期经典专辑，包含《往日情》《爱我久一点》等金曲，确立天后地位",
-      "coverUrl": "https://img1.doubanio.com/view/subject/l/public/s1446801.jpg"
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/53/2f/36/532f3604-27d3-c4e4-cfdf-88f2c764f367/886447536636.jpg/316x316bb.webp"
     },
     {
       "id": "1782737486711-1ba6h8",
-      "title": "李玟精选集",
+      "title": "Coco李玟第一张全纪录精选辑",
       "artist": "李玟",
       "albumArtist": "",
       "year": "2000",
@@ -5300,7 +5320,7 @@
       "purchaseDate": "",
       "purchasePrice": "",
       "notes": "收录多首经典热门单曲",
-      "coverUrl": "https://img2.doubanio.com/view/subject/l/public/s1446809.jpg"
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Features/v4/fe/60/71/fe607106-5830-4309-5db6-9fa65d215588/dj.zrnfulwr.jpg/316x316bf.webp"
     },
     {
       "id": "1782737486711-sdvch3",
@@ -5320,7 +5340,7 @@
       "purchaseDate": "",
       "purchasePrice": "",
       "notes": "经典抒情专辑",
-      "coverUrl": "https://img1.doubanio.com/view/subject/l/public/s1446803.jpg"
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music/3c/71/55/mzi.etmruquj.jpg/316x316bf.webp"
     },
     {
       "id": "1782737486711-52iltc",
@@ -5340,7 +5360,7 @@
       "purchaseDate": "",
       "purchasePrice": "",
       "notes": "热情奔放，同名主打歌动感十足",
-      "coverUrl": "https://img9.doubanio.com/view/subject/l/public/s1446808.jpg"
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/6d/80/35/6d8035bf-86e1-9f6d-6afe-e83660e28a65/mzi.zhoaufjn.jpg/316x316bf.webp"
     },
     {
       "id": "1782737486711-yr2yn1",
@@ -5380,7 +5400,7 @@
       "purchaseDate": "",
       "purchasePrice": "",
       "notes": "动感舞曲，展现舞台魅力",
-      "coverUrl": "https://img1.doubanio.com/view/subject/l/public/s1446810.jpg"
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music/f3/ca/e4/mzi.gqswxnqj.jpg/316x316bf.webp"
     },
     {
       "id": "1782737486711-s8tva6",
@@ -7220,7 +7240,7 @@
       "purchaseDate": "",
       "purchasePrice": "",
       "notes": "独特唱腔，独立流行风格",
-      "coverUrl": "https://img1.doubanio.com/view/subject/l/public/s29856359.jpg"
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/db/40/56/db4056a3-2478-f515-23cc-6b418dd2282b/1._3000_ol-_-.jpg/316x316bf.webp"
     },
     {
       "id": "1782737486717-ystay6",
@@ -7240,7 +7260,7 @@
       "purchaseDate": "",
       "purchasePrice": "",
       "notes": "第四张个人创作专辑；收录《刚好》、《白色》等；探索自我与未来的命题",
-      "coverUrl": "https://img9.doubanio.com/view/subject/l/public/s33428711.jpg"
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music69/v4/2f/71/e6/2f71e6a5-c425-b804-fdb1-e3e80599ffb1/iTune-01.jpg/316x316bf.webp"
     },
     {
       "id": "1782737486717-0w1g9x",
@@ -7260,7 +7280,7 @@
       "purchaseDate": "",
       "purchasePrice": "",
       "notes": "出道专辑，独特唱腔，代表作《是什么让我遇见这样的你》",
-      "coverUrl": "https://img2.doubanio.com/view/subject/l/public/s24575140.jpg"
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/1d/5a/4d/1d5a4d83-d61b-d7cf-2691-39d293a6d520/4711517112495.jpg/316x316bf.webp"
     },
     {
       "id": "1782737486718-e9zgus",
@@ -7280,7 +7300,7 @@
       "purchaseDate": "",
       "purchasePrice": "",
       "notes": "相信音乐发行，白安第二张全创作专辑，风格独特",
-      "coverUrl": "https://img1.doubanio.com/view/subject/l/public/s29721511.jpg"
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/db/40/56/db4056a3-2478-f515-23cc-6b418dd2282b/1._3000_ol-_-.jpg/316x316bf.webp"
     },
     {
       "id": "1782737486718-xz8tjl",
@@ -7500,7 +7520,7 @@
       "purchaseDate": "",
       "purchasePrice": "",
       "notes": "范玮琪出道首张专辑，以《到不了》、《感觉》等歌曲崭露头角，嗓音清澈，风格清新自然。",
-      "coverUrl": "https://img9.doubanio.com/view/subject/l/public/s1445411.jpg"
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/a7/a8/27/a7a8277c-bfa4-5d22-7498-fc27bca74c61/Rotated_FONE.jpg/316x316bf.webp"
     },
     {
       "id": "1782737486718-81oqv7",
@@ -7520,7 +7540,7 @@
       "purchaseDate": "",
       "purchasePrice": "",
       "notes": "范玮琪第四张个人专辑，收录《最初的梦想》、《黑白配》等经典曲目，确立其‘温暖系’情歌天后地位。",
-      "coverUrl": "https://img2.doubanio.com/view/subject/l/public/s1445417.jpg"
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/07/e5/e0/07e5e07c-5773-9a7a-f9e2-953c9ac129a8/cover1-3-s.jpg/316x316bf.webp"
     },
     {
       "id": "1782737486718-c7ztln",
@@ -7540,7 +7560,7 @@
       "purchaseDate": "",
       "purchasePrice": "",
       "notes": "范玮琪音乐风格转变之作，收录《哲学家》、《小眼睛》等歌曲，探讨爱情哲学，曲风更加成熟。",
-      "coverUrl": "https://img3.doubanio.com/view/subject/l/public/s2604348.jpg"
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/7a/c7/40/7ac7404a-b54e-427f-b385-7ccbcb6dcaa4/70225_cover.jpg/316x316bf.webp"
     },
     {
       "id": "1782737486719-f4yp49",
@@ -7560,7 +7580,7 @@
       "purchaseDate": "",
       "purchasePrice": "",
       "notes": "范玮琪加盟福茂唱片后的精选集，收录同名主打歌《我们的纪念日》及《那些花儿》等，记录其音乐成长历程，情感细腻动人。",
-      "coverUrl": "https://img1.doubanio.com/view/subject/l/public/s1445421.jpg"
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/4c/7a/b2/4c7ab204-d0fd-21d3-7e01-42fc19de2225/4717398702176.jpg/316x316bf.webp"
     },
     {
       "id": "1782737486719-eotogn",
@@ -7580,7 +7600,7 @@
       "purchaseDate": "",
       "purchasePrice": "",
       "notes": "翻唱自中岛美雪，成为经典励志金曲",
-      "coverUrl": "https://img2.doubanio.com/view/subject/l/public/s1445415.jpg"
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music/v4/e9/7c/e2/e97ce22d-4bc7-03d4-242d-7b12d4d45fa0/70193_cover.jpg/316x316bf.webp"
     },
     {
       "id": "1782737486719-lrcrvh",
@@ -7600,7 +7620,7 @@
       "purchaseDate": "",
       "purchasePrice": "",
       "notes": "范玮琪加盟福茂唱片后的首张专辑，同名主打歌传递温暖正能量，确立其“温暖系”歌手地位。",
-      "coverUrl": "https://img1.doubanio.com/view/subject/l/public/s1445418.jpg"
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music/v4/8e/49/29/8e492902-3da2-d1da-2415-922dc191e895/70186_cover.jpg/316x316bf.webp"
     },
     {
       "id": "1782737486719-09gtz4",
@@ -7620,7 +7640,7 @@
       "purchaseDate": "",
       "purchasePrice": "",
       "notes": "范玮琪第七张个人专辑，概念强调‘一对一’的真诚交流，收录《一颗星》、《零距离》等作品，展现成熟音乐态度。",
-      "coverUrl": "https://img2.doubanio.com/view/subject/l/public/s3122579.jpg"
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music/v4/8e/49/29/8e492902-3da2-d1da-2415-922dc191e895/70186_cover.jpg/316x316bf.webp"
     },
     {
       "id": "1782737486719-z7td2h",
